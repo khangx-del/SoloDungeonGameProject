@@ -20,6 +20,7 @@ In Dungeon Labyrinth, you play as a lone adventurer trapped inside a mysterious 
 * Right Click	Attack
 
 
-https://github.com/user-attachments/assets/7fcdbfe9-6448-468e-acab-494e34a5ac39
+https://github.com/user-attachments/assets/5ed89a67-53d4-4c70-a220-3c11d327732c
+
 
 itch.io:https://gnahkgnurt.itch.io/solo-dungeon
